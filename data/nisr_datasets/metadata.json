@@ -1,0 +1,15 @@
+{
+  "datasets": [
+    {
+      "dataset_key": "eicv7_district_indicators",
+      "dataset_name": "EICV7 District Level Health and Living Conditions Indicators",
+      "publishing_institution": "National Institute of Statistics of Rwanda (NISR)",
+      "source_url": "https://www.statistics.gov.rw/data-sources/surveys/EICV/integrated-household-living-conditions-survey-7-eicv-7",
+      "reference_period": "2023 - 2024",
+      "geographic_coverage": "National (30 Districts of Rwanda, 5 Provinces)",
+      "indicator_description": "District-level poverty rates, extreme poverty rates, health insurance coverage, percentage of population traveling more than 1 hour to reach health facilities, and reported chronic conditions prevalence.",
+      "file_path": "data/nisr_datasets/eicv7_district_indicators.csv",
+      "distinction_notice": "Official statistical aggregate survey data describing population-level socioeconomic and health access patterns. Does not contain individual patient identifiers, clinical charts, or hospital appointment records."
+    }
+  ]
+}
